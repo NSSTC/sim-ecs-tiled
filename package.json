@@ -1,0 +1,8 @@
+{
+  "name": "sim-ecs-tiled",
+  "version": "0.1.0",
+  "dependencies": {
+    "@workadventure/tiled-map-type-guard": "^2.1.0",
+    "sim-ecs": "~0.6.0"
+  }
+}
